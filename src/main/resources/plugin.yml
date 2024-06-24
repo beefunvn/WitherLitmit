@@ -1,0 +1,5 @@
+name: WitherLitmit
+version: '${project.version}'
+main: dev.tranducminh.witherlitmit.WitherLitmit
+api-version: '1.20'
+folia-supported: true
